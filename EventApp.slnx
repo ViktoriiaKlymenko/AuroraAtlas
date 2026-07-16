@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EventApp.Api/EventApp.Api.csproj" />
+  <Project Path="EventApp.Application/EventApp.Application.csproj" />
+  <Project Path="EventApp.Domain/EventApp.Domain.csproj" />
+  <Project Path="EventApp.Infrastructure/EventApp.Infrastructure.csproj" />
+  <Project Path="EventApp.Persistence/EventApp.Persistence.csproj" />
+</Solution>
